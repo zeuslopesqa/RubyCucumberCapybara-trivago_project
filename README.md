@@ -13,7 +13,7 @@ Chrome driver(Download the driver of the same version of your Google chrome brow
 
 Gecko driver: https://github.com/mozilla/geckodriver/releases
 
-#### • Install o Bundle
+#### • Install Bundle
 gem install bundler(run this command on the terminal, here I use the terminal: cmder.)
 
 #### • Clone the project:
