@@ -29,6 +29,7 @@ ReportBuilder.configure do |config|
   config.compress_image = true
   config.include_images = true
   config.additional_info = {'App': 'Web', 'Test Date': @test_date}
+  config.color ='indigo'
 end
 ReportBuilder.build_report
 end
