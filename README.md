@@ -1,6 +1,6 @@
 # trivago_project
 
-## Steps run the project
+## Steps to run the project
 
 #### Install Ruby version 2.5+ with devkit
 https://rubyinstaller.org/downloads/
